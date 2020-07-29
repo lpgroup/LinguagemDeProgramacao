@@ -7,8 +7,16 @@ Este microsite foi projetado para fornecer aos usuários um ambiente compartilha
 
 ## Estrutura básica de um programa C++
 <p>
-  Essa é a função sayHello():
-  <pre><code>function sayHello() {
-    return 'hi!';
-  }</code></pre>
+  <pre><code>
+  #include <iostream>
+
+  using namespace std;
+
+  int main()
+  {
+      cout<<"Hello prof. Massaki";
+
+      return 0;
+  }
+ </code></pre>
 </p>
