@@ -6,7 +6,7 @@ Este microsite foi projetado para fornecer aos usuários um ambiente compartilha
 </p>
 
 ## Estrutura básica de um programa C++
-'''cpp
+'''js
 #include<iostream> 
 using namespace std;
 int main()
