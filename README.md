@@ -5,5 +5,10 @@ Ambiente para aprendizado colaborativo de Linguagem de Programação
 Este microsite foi projetado para fornecer aos usuários um ambiente compartilhado de aprendizado sobre Linguagens de Programação. O modelo não pretende substituir o conteúdo institucional disponível no ambiente mooodle de aula do professor, mas serve de suporte complementar ao aprendizado de Linguagens de Programação.<br />
 </p>
 
-
- 
+<blockquote>
+  <p>
+    Esse é um bloco de citação.
+    Ele pode ter várias linhas.
+  </p>
+  <p>Inclusive, uma quebra de linha.</p>
+</blockquote>
