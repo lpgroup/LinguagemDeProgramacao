@@ -6,8 +6,9 @@ Este microsite foi projetado para fornecer aos usuários um ambiente compartilha
 </p>
 
 ## Estrutura básica de um programa C++
-<p>
-  <pre><code>
+
+
+```
   #include <iostream>
 
   using namespace std;
@@ -16,12 +17,8 @@ Este microsite foi projetado para fornecer aos usuários um ambiente compartilha
   {
       cout<<"Hello prof. Massaki";
 
-      return 0;
-  }
- </code></pre>
-</p>
+    **return 0;**
+}
 
 
-<p>
-  O <code>&lt;blockquote&gt;</code> é uma tag HTML!
-</p>
+
