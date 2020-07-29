@@ -10,7 +10,7 @@ Para você que é leigo e está começando agora a programar em linguagem C++ es
 
 # Passo 0:
 <p>
-1. Antes de iniciar você precisa saber que precisará de um compilador; este compilador pode ser instalado ou no ambiente de núvem.  <br/>
+1. Antes de iniciar você precisa saber que precisará de um compilador; este compilador pode ser instalado no seu desktop, no seu celular ou simplesmente executado ambiente de núvem da internet (esta última opção pode ser executada de qualquer plataforma, basta acessar o navegador de internet do seu dispositivo).  <br/>
 </p>
 <p>
 2. Compiladores para instalar:  <br />
@@ -20,7 +20,7 @@ Para você que é leigo e está começando agora a programar em linguagem C++ es
 <p>  [Code::Blocks](http://www.codeblocks.org/downloads/26) </p>
 </blockquote>
 
-OBSERVAÇÃO: Instale a versão codeblocks-XX.XX***mingw-setup.exe***. Pois ela inclui o compilador GCC/G++/GFortran e o GDB debugger necessários para a execução do seu programa 
+**OBSERVAÇÃO:** Instale a versão codeblocks-XX.XX***mingw-setup.exe***. Pois ela inclui o compilador GCC/G++/GFortran e o GDB debugger necessários para a execução do seu programa 
 
 <p>
 3. Compiladores para ANDROID:  <br />
@@ -43,8 +43,8 @@ OBSERVAÇÃO: Instale a versão codeblocks-XX.XX***mingw-setup.exe***. Pois ela 
 </blockquote>
 
 
-# Estrutura básica de um programa C++
-
+# Passo 1: Estrutura básica de um programa C++
+<p> Ao ingressar no copilador, você precisa da estrutura básica a seguir para que seu programa seja executado
 ```javascript
   #include <iostream>
 
