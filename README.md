@@ -16,11 +16,12 @@ Para você que é leigo e está começando agora a programar em linguagem C++ es
   Compiladores para instalar;  <br />
 </p>
 <blockquote>
-<p>
-  [Code::Blocks](http://www.codeblocks.org/downloads/26) </p>
+<p>  [Bloodshed Dev-C++](https://www.bloodshed.net/download.html) </p>
+<p>  [Code::Blocks](http://www.codeblocks.org/downloads/26) </p>
 </blockquote>
- <p>
-  OBSERVAÇÃO: Instale a versão codeblocks-XX.XX**mingw-setup.exe**. Pois ela inclui o compilador GCC/G++/GFortran e o GDB debugger necessários para a execução do seu programa </p>
+
+OBSERVAÇÃO: Instale a versão codeblocks-XX.XX***mingw-setup.exe***. Pois ela inclui o compilador GCC/G++/GFortran e o GDB debugger necessários para a execução do seu programa 
+
 # Estrutura básica de um programa C++
 
 ```javascript
