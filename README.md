@@ -17,7 +17,9 @@ Para você que é leigo e está começando agora a programar em linguagem C++ es
 </p>
 <blockquote>
 <p>
-  [GitHub](http://github.com) </p>
+  [Code::Blocks](http://www.codeblocks.org/downloads/26) </p>
+ <p>
+  OBSERVAÇÃO: Instale a versão codeblocks-XX.XX*mingw-setup.exe* pois ela inclui o compilador GCC/G++/GFortran e o GDB debugger necessários para a execução do seu programa </p>
 </blockquote>
 
 # Estrutura básica de um programa C++
