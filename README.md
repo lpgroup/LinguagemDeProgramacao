@@ -8,8 +8,8 @@ Este microsite foi projetado para fornecer aos usuários um ambiente compartilha
 ## Estrurua básica de um programa C++
 <blockquote>
   <p>
-    #include <iostream>
-    using namespace std;
+    #include <iostream> .</p>
+    using namespace std; .</p>
     int main()
     {
         cout<<"Hello World";
