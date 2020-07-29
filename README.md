@@ -10,10 +10,10 @@ Para você que é leigo e está começando agora a programar em linguagem C++ es
 
 # Passo 0:
 <p>
-0.1. Antes de iniciar você precisa saber que precisará de um compilador; este compilador pode ser instalado ou no ambiente de núvem.  <br/>
+1. Antes de iniciar você precisa saber que precisará de um compilador; este compilador pode ser instalado ou no ambiente de núvem.  <br/>
 </p>
 <p>
-0.2. Compiladores para instalar:  <br />
+2. Compiladores para instalar:  <br />
 </p>
 <blockquote>
 <p>  [Bloodshed Dev-C++](https://www.bloodshed.net/download.html) </p>
@@ -23,7 +23,7 @@ Para você que é leigo e está começando agora a programar em linguagem C++ es
 OBSERVAÇÃO: Instale a versão codeblocks-XX.XX***mingw-setup.exe***. Pois ela inclui o compilador GCC/G++/GFortran e o GDB debugger necessários para a execução do seu programa 
 
 <p>
-0.3. Compiladores para ANDROID:  <br />
+3. Compiladores para ANDROID:  <br />
 </p>
 <blockquote>
 <p>  [CppDroid](https://play.google.com/store/apps/details?id=name.antonsmirnov.android.cppdroid) </p>
@@ -31,7 +31,7 @@ OBSERVAÇÃO: Instale a versão codeblocks-XX.XX***mingw-setup.exe***. Pois ela 
 </blockquote>
 
 <p>
-0.4. Compiladores online:  <br />
+4. Compiladores online:  <br />
 </p>
 <blockquote>
 <p>   [Repl.it ](https://repl.it) </p>
@@ -41,8 +41,6 @@ OBSERVAÇÃO: Instale a versão codeblocks-XX.XX***mingw-setup.exe***. Pois ela 
 <p>   [Paiza.IO] (https://paiza.io/en/projects/new?language=cpp) </p>
 <p>   [ CodeChef] (https://www.codechef.com/ide) </p>  
 </blockquote>
-
-
 
 
 # Estrutura básica de um programa C++
