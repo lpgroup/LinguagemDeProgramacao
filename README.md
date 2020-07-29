@@ -10,10 +10,10 @@ Para você que é leigo e está começando agora a programar em linguagem C++ es
 
 # Passo 0:
 <p>
-  Antes de iniciar você precisa saber que precisará de um compilador; este compilador pode ser instalado ou no ambiente de núvem.  <br/>
+0.1. Antes de iniciar você precisa saber que precisará de um compilador; este compilador pode ser instalado ou no ambiente de núvem.  <br/>
 </p>
 <p>
-  Compiladores para instalar:  <br />
+0.2. Compiladores para instalar:  <br />
 </p>
 <blockquote>
 <p>  [Bloodshed Dev-C++](https://www.bloodshed.net/download.html) </p>
@@ -23,7 +23,7 @@ Para você que é leigo e está começando agora a programar em linguagem C++ es
 OBSERVAÇÃO: Instale a versão codeblocks-XX.XX***mingw-setup.exe***. Pois ela inclui o compilador GCC/G++/GFortran e o GDB debugger necessários para a execução do seu programa 
 
 <p>
-  Compiladores para ANDROID:  <br />
+0.3. Compiladores para ANDROID:  <br />
 </p>
 <blockquote>
 <p>  [CppDroid](https://play.google.com/store/apps/details?id=name.antonsmirnov.android.cppdroid) </p>
@@ -31,7 +31,7 @@ OBSERVAÇÃO: Instale a versão codeblocks-XX.XX***mingw-setup.exe***. Pois ela 
 </blockquote>
 
 <p>
- Compiladores online:  <br />
+0.4. Compiladores online:  <br />
 </p>
 <blockquote>
 <p>   [Repl.it ](https://repl.it) </p>
