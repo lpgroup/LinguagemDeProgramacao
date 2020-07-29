@@ -44,7 +44,8 @@ Para você que é leigo e está começando agora a programar em linguagem C++ es
 
 
 # Passo 1: Estrutura básica de um programa C++
-<p> Ao ingressar no copilador, você precisa da estrutura básica a seguir para que seu programa seja executado
+<p> Ao ingressar no copilador, você precisa da estrutura básica a seguir para que seu programa seja executado </p>
+
 ```javascript
   #include <iostream>
 
