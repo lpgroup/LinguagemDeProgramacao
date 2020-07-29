@@ -16,7 +16,8 @@ Para você que é leigo e está começando agora a programar em linguagem C++ es
   Compiladores para instalar;  <br />
 </p>
 <blockquote>
-[GitHub](http://github.com)
+<p>
+  [GitHub](http://github.com) </p>
 </blockquote>
 
 # Estrutura básica de um programa C++
