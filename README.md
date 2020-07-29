@@ -7,11 +7,10 @@ Este microsite foi projetado para fornecer aos usuários um ambiente compartilha
 
 ## Estrurua básica de um programa C++
 <blockquote>
-  <p>
-    #include <iostream> .</p>
-    using namespace std; .</p>
-    int main()
-    {
+  <p>   #include <iostream> .</p>
+  <p>   using namespace std; .</p>
+  <p>   int main() .</p>
+  <p> {
         cout<<"Hello World";
 
         return 0;
