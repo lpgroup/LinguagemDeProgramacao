@@ -20,3 +20,8 @@ Este microsite foi projetado para fornecer aos usuários um ambiente compartilha
   }
  </code></pre>
 </p>
+
+
+<p>
+  O <code>&lt;blockquote&gt;</code> é uma tag HTML!
+</p>
